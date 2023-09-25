@@ -13,20 +13,15 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-`<br>`
+<br>
 
-
-`<h2 id="project">`📁 Projeto `</h2>`
+<h2 id="project">📁 Projeto </h2>
 
 Este aplicação desenvolvida durante a NLW IA, disponibilizada pela [Rocketseat](https://www.rocketseat.com.br) possibilita o envio de vídeos, aproveitando a API de inteligência artificial da OpenAI para transcrevê-los. Essa transcrição é então utilizada para gerar de forma automática títulos e descrições de vídeos, fornecendo um valioso auxílio aos criadores de conteúdo do YouTube, ao criar esses elementos com base na transcrição do conteúdo dos vídeos.
 
+<br>
 
-
-`<br>`
-
-
-
-`<h2 id="technologies">`💻 Tecnologias `</h2>`
+<h2 id="technologies">💻 Tecnologias </h2>
 
 Este projeto foi desenvolvido utilizando tecnologias como:
 
@@ -38,14 +33,9 @@ Este projeto foi desenvolvido utilizando tecnologias como:
 - OpenAI
 - Zod
 
+<br>
 
-
-`<br>`
-
-
-```
 <h2 id="`usage`">💡 Utilização</h2>
-```
 
 Necessário criar uma conta no site [OpenAI](https://openai.com/), obtenha sua chave da API e preencha o campo OPENAI_KEY com sua chave.
 
@@ -84,7 +74,7 @@ $ npm run dev
 ⚠️ **Importante**: Crie um arquivo .env de acordo com o arquivo .env.example.
 
 
-`<br>`
+<br>
 
 
 <h2 id="license">📝 Licença</h2>
@@ -92,9 +82,7 @@ $ npm run dev
 Este projeto está sob a licença MIT.
 
 
-
-`<br>`
-
+<br>
 
 Feito com 💜 by Savio Lopes in the NLW marathon [Rocketseat](https://www.rocketseat.com.br)
 
