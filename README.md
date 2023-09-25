@@ -2,12 +2,10 @@
   Upload.ai - NLW IA
 </h1>
 
-> Projeto desenvolvido na Trilha Mastery da maratona NLW IA da Rocketseat.
-
 <p align="center">
-  <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#usage">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Projeto</a>   |   
+  <a href="#technologies">Tecnologias</a>   |   
+  <a href="#usage">Utilização</a>   |   
   <a href="#license">Licença</a>
 </p>
 
@@ -66,7 +64,7 @@ $ npx prisma migrate dev
 $ npm run dev
 ```
 
-⚠️ **Importante**: Crie um arquivo .env de acordo com o arquivo .env.example. 
+⚠️ **Importante**: Crie um arquivo .env de acordo com o arquivo .env.example.
 
 <h2 id="license">📝 Licença</h2>
 
